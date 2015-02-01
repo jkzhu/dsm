@@ -1,6 +1,6 @@
 # dsm
 
-This package includes the full source code for the following manuscript:
+This package includes full source code for the following manuscript:
 
 Zhiyuan Zhong and Jianke Zhu, "Fast Object Retrieval Using Direct Spatial Matching", under review.
 
